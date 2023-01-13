@@ -1,0 +1,5 @@
+test small login case 
+.env is not in .gitignore since it's a test project
+
+Made with node/express and MongoDB 
+use any api client like postman to test the project
